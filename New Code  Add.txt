@@ -1,2 +1,1 @@
-Decision_Tree_Regression-Random_Forest_Regression-
-Logisttic_Regression
+K-NN
