@@ -1,1 +1,4 @@
-Support Vector Machine
+Decision_Tree_Classification-
+Random_Forest_Classification- 
+Naive_Bayes-
+K_Means
